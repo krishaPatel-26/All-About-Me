@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{42174EC6-0C97-47C4-833E-B9ED453A82E4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AllAboutMe_KrishaPatel</RootNamespace>
+    <AssemblyName>AllAboutMe_KrishaPatel</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icons8-Ios7-Data-Alphabetical-Sorting-Za.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FunFacts.cs" />
+    <Compile Include="FunFacts.Designer.cs">
+      <DependentUpon>FunFacts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hobbies.cs" />
+    <Compile Include="Hobbies.Designer.cs">
+      <DependentUpon>Hobbies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs" />
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Songs.cs" />
+    <Compile Include="Songs.Designer.cs">
+      <DependentUpon>Songs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs" />
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimeLine1.cs" />
+    <Compile Include="TimeLine1.Designer.cs">
+      <DependentUpon>TimeLine1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimeLine2.cs" />
+    <Compile Include="TimeLine2.Designer.cs">
+      <DependentUpon>TimeLine2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimeLine3.cs" />
+    <Compile Include="TimeLine3.Designer.cs">
+      <DependentUpon>TimeLine3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimeLine4.cs" />
+    <Compile Include="TimeLine4.Designer.cs">
+      <DependentUpon>TimeLine4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimeLine5.cs" />
+    <Compile Include="TimeLine5.Designer.cs">
+      <DependentUpon>TimeLine5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimeLineStart.cs" />
+    <Compile Include="TimeLineStart.Designer.cs">
+      <DependentUpon>TimeLineStart.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FunFacts.resx">
+      <DependentUpon>FunFacts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hobbies.resx">
+      <DependentUpon>Hobbies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Songs.resx">
+      <DependentUpon>Songs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimeLine1.resx">
+      <DependentUpon>TimeLine1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimeLine2.resx">
+      <DependentUpon>TimeLine2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimeLine3.resx">
+      <DependentUpon>TimeLine3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimeLine4.resx">
+      <DependentUpon>TimeLine4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimeLine5.resx">
+      <DependentUpon>TimeLine5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimeLineStart.resx">
+      <DependentUpon>TimeLineStart.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="THE GREAT DEPRESSION.pptx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\all-me-hand-drawn-vector-lettering-isolated-white-background-design-poster-greeting-card-photo-album-banner-148383347.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\..\Unit 1\HelloWorldInternational\HelloWorldInternational\bin\Debug\HelloWorldInternational.exe">
+      <Link>HelloWorldInternational.exe</Link>
+    </Content>
+    <Content Include="Icons8-Ios7-Data-Alphabetical-Sorting-Za.ico" />
+    <Content Include="RENDER.png" />
+    <None Include="Resources\Feel_The_Music_Whatsapp_StatusIns_%28getmp3.pro%29.wav" />
+    <None Include="Resources\Coloring-removebg-preview1.png" />
+    <None Include="Resources\mixkit-arcade-game-jump-coin-216.wav" />
+    <None Include="Resources\AllAboutMe.png" />
+    <None Include="Resources\FunTimes.gif" />
+    <None Include="Resources\MiddleSchool.gif" />
+    <None Include="Resources\MovingToCanada.gif" />
+    <None Include="Resources\Childhood.gif" />
+    <None Include="Resources\560-5608620_computer-icons-sleep-clip-art-sleeping-clipart-png - Copy.png" />
+    <None Include="Resources\WordArt.PNG" />
+    <None Include="Resources\What Makes You Beautiful.mp3" />
+    <None Include="Resources\Sugar.mp3" />
+    <None Include="Resources\Sucker.mp3" />
+    <None Include="Resources\Stitches .mp3" />
+    <None Include="Resources\Shape of you.mp3" />
+    <None Include="Resources\Perfect.mp3" />
+    <None Include="Resources\Pasoori.mp3" />
+    <None Include="Resources\One Thing.mp3" />
+    <None Include="Resources\Live While Were Young.mp3" />
+    <None Include="Resources\istockphoto-1298258148-612x612.jpg" />
+    <None Include="Resources\Coloring.PNG" />
+    <None Include="Resources\Chilling.PNG" />
+    <None Include="Resources\Chaand baaliyan.mp3" />
+    <None Include="Resources\all-me-hand-drawn-vector-lettering-isolated-white-background-design-poster-greeting-card-photo-album-banner-148383347.jpg" />
+    <None Include="Resources\all-me-hand-drawn-vector-lettering-isolated-white-background-design-poster-greeting-card-photo-album-banner-148383347 - Copy.png" />
+    <None Include="Resources\all-me-hand-drawn-vector-lettering-isolated-white-background-design-poster-greeting-card-photo-album-banner-148383347 - Copy.jpg" />
+    <None Include="Resources\HighSchool.gif" />
+    <None Include="Resources\ezgif.com-gif-maker.gif" />
+    <None Include="Resources\Music.png" />
+    <None Include="Resources\61-611471_resource-to-allow-for-congregants-and-newcomers-to.png" />
+    <None Include="Resources\image_processing20200410-19251-1nrupn.png" />
+    <None Include="Resources\giphy.gif" />
+    <None Include="Resources\Friends.png" />
+    <None Include="Resources\Coloring-removebg-preview.png" />
+    <None Include="Resources\Chilling-removebg-preview.png" />
+    <None Include="Resources\560-5608620_computer-icons-sleep-clip-art-sleeping-clipart-png.png" />
+    <None Include="Resources\Perfect.wav" />
+    <None Include="Resources\Live While Were Young.wav" />
+    <None Include="Resources\What Makes You Beautiful.wav" />
+    <None Include="Resources\Sugar.wav" />
+    <None Include="Resources\Sucker.wav" />
+    <None Include="Resources\Stitches .wav" />
+    <None Include="Resources\Shape of you.wav" />
+    <None Include="Resources\Pasoori.wav" />
+    <None Include="Resources\One Thing.wav" />
+    <None Include="Resources\Chaand baaliyan.wav" />
+    <None Include="Resources\AllABoutMe_MovingToCanada.gif" />
+    <None Include="Resources\AllAboutMe_Childhood.gif" />
+    <None Include="Resources\WordArt-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,41 @@
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\bin\Debug\AllAboutMe_KrishaPatel.exe.config
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\bin\Debug\AllAboutMe_KrishaPatel.exe
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\bin\Debug\AllAboutMe_KrishaPatel.pdb
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.csprojAssemblyReference.cache
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.Main.resources
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.Properties.Resources.resources
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.TimeLine1.resources
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.csproj.GenerateResource.cache
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.csproj.CoreCompileInputs.cache
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.exe
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.pdb
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.TimeLine2.resources
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.TimeLine3.resources
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.TimeLine4.resources
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.FunFacts.resources
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.TimeLineStart.resources
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.Songs.resources
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.Hobbies.resources
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.TimeLine5.resources
+H:\Network Documents\Comp 20S\Unit 4\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.Splash.resources
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.csproj.AssemblyReference.cache
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.csproj.SuggestedBindingRedirects.cache
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.FunFacts.resources
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.Hobbies.resources
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.Main.resources
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.Properties.Resources.resources
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.Songs.resources
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.Splash.resources
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.TimeLine1.resources
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.TimeLine2.resources
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.TimeLine3.resources
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.TimeLine4.resources
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.TimeLine5.resources
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.TimeLineStart.resources
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.csproj.GenerateResource.cache
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.csproj.CoreCompileInputs.cache
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\bin\Debug\AllAboutMe_KrishaPatel.exe.config
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\bin\Debug\AllAboutMe_KrishaPatel.exe
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\bin\Debug\AllAboutMe_KrishaPatel.pdb
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.exe
+C:\Users\patel\Desktop\Krisha\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\AllAboutMe_KrishaPatel\obj\Debug\AllAboutMe_KrishaPatel.pdb
