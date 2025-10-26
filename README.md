@@ -9,13 +9,11 @@ A personal Windows Forms application built in C# that showcases my interests, ho
 -- Fun Facts** - Learn interesting things about me
 -- Sleek UI** - Clean, user-friendly interface
 
-## 🛠️ Built With
-- C#
+## 💻 Technology
+- C# GUI application
 - .NET Framework
 - Windows Forms
 - Visual Studio
+- Built as a Grade 10 C# project
 
 ## To run -- run `AllAboutMe_KrishaPatel.exe`
-
-## 👨‍💻 Developer
-Krisha Patel - Software Engineering Student at McMaster University
